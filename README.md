@@ -11,20 +11,20 @@
 <!-- - Bio -->
 I'm Kirankumar Matham, A software Engineer over 3 years from Hyderabad. I love JavaScript and new technologies. Have experience in building dynamic and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I specialize in crafting scalable solutions and delivering seamless user experiences.
 
-## What I bring to the table 💡:
+## What I bring to the table 💡
 Proficient in frontend and backend development, API integration, and database management.
 Strong focus on building innovative projects that solve real-world problems.
 Passionate about clean, maintainable code and continuous learning.
 
-## Highlights ✨:
+## Highlights ✨
 Developed multiple full-stack applications, including SocialSync and GitProjector.
 Skilled in modern tools and technologies like Redux Toolkit, Swagger, and Multer for file uploads.
 Successfully implemented features such as authentication, session management, and RESTful APIs.
 
-## Currently working on 📚:
+## Currently working on 📚
 Building a Project Management App to showcase my ability to create intuitive user interfaces and robust backend systems.
 
-## Goals 🌟:
+## Goals 🌟
 I’m actively looking for opportunities to collaborate, grow, and contribute to impactful projects at product-based companies.
 
 
@@ -35,7 +35,7 @@ I’m actively looking for opportunities to collaborate, grow, and contribute to
 -->
 
 <!-- - skills -->
-## skills
+## skills 🛠️
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   &ensp;
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -123,7 +123,7 @@ I’m actively looking for opportunities to collaborate, grow, and contribute to
   ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## My Stats
+## My Stats 📊
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&layout=compact)
 &emsp;
