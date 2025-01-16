@@ -44,23 +44,79 @@ Drop me a message on LinkedIn: [Add LinkedIn Link]
 ### skills
 
 - JavaScript
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-1d1d1d?logo=javascript&logoColor=yellow)
 - ReactJS
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![React](https://img.shields.io/badge/ReactJS-1d1d1d?logo=react&logoColor=blue)
+- React Router
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- Redux
+- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+- SASS
+- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- Styled Components
+- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+- Tailwind CSS
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Vite
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- CSS
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- HTML
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- TypeScript
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- 
 - NodeJS
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Node](https://img.shields.io/badge/NodeJS-1d1d1d?logo=node.js&logoColor=green)
 - ExpressJS
 - ![ExpressJS](https://img.shields.io/badge/ExpressJS-1d1d1d?logo=express&logoColor=green)
 - Mongodb
 - ![MongoDB](https://img.shields.io/badge/MongoDB-1d1d1d?logo=mongodb&logoColor=white)
 - NextJS
-- ![NextJS](https://img.shields.io/badge/NextJS-d1d1d1?logo=next.js&logoColor=black)
+- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - SQL
 - ![SQL](https://img.shields.io/badge/SQL-d1d1d1?logo=sql&logoColor=black)
 - Python
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Flask
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- NPM
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- Nodemon
+- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+- PNPM
+- ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 - Java
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - Restful API
+- 
+- Jest
+- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+- Mocha
+- ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+- 
+- Bash
+- ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- 
+### Version Controls
+- GitHub
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- BitBucket
+- ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+- 
+- Chat GPT
+- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- Gemini
+- ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+### Worked As
+- Free Lancer
+- ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&layout=compact)
@@ -84,6 +140,10 @@ stackoverflow:
 ### socials
 
 - [LinkedIn](www.linkedin.com/in/kirankumar-matham)
+- ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+### I learn at
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/kirankumar-Matham96)
