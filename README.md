@@ -28,15 +28,6 @@ Building a Project Management App to showcase my ability to create intuitive use
 I’m actively looking for opportunities to collaborate, grow, and contribute to impactful projects at product-based companies.
 
 
-<!--
-### Check this later
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80587039" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80587039&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @kirankumar-Matham96" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80587039&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
--->
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!--
@@ -147,6 +138,15 @@ I’m actively looking for opportunities to collaborate, grow, and contribute to
     <img src="https://github-readme-stats.vercel.app/api?username=Kirankumar-Matham96&show_icons=true" />
 &emsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&layout=compact" />
+<!--
+### Check this later
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80587039" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80587039&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @kirankumar-Matham96" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80587039&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+-->
 </div>
 
 <!-- - Social -->
