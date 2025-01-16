@@ -6,10 +6,12 @@
 &emsp;<!-- stackoverflow -->
 ![stackoverflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=23980767&period=year&mini=true)
 
-## 👋 Hello
+<img src="./header.png" />
+
+## 👋 About Me
 
 <!-- - Bio -->
-I'm Kirankumar Matham, A software Engineer over 3 years from Hyderabad. I love JavaScript and new technologies. Have experience in building dynamic and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I specialize in crafting scalable solutions and delivering seamless user experiences.
+I'm a software Engineer from Hyderabad for around 3 years. I love JavaScript and new technologies. Have experience in building dynamic and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I specialize in crafting scalable solutions and delivering seamless user experiences.
 
 ## What I bring to the table 💡
 Proficient in frontend and backend development, API integration, and database management.
