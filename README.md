@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
+
+- Bio
+- skills
+- Fun Facts
+- Metrics
+- External Links
+- Badges
+- Social
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
