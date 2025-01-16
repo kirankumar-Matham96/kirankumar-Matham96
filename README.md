@@ -1,5 +1,7 @@
 ###👋 Hello,
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkirankumar-Matham96%2Fkirankumar-Matham96%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)
+
 <!-- - Bio -->
 I'm Kirankumar Matham! A software developer over 3 years from Hyderabad. I love JavaScript and new technologies.
 
