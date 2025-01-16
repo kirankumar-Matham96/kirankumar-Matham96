@@ -1,40 +1,35 @@
-### 👋 Hello,
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkirankumar-Matham96%2Fkirankumar-Matham96%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)
 &ensp;
 [![LeetCode user KirankumarMatham](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKirankumarMatham&logo=leetcode&logoColor=yellow)](https://leetcode.com/KirankumarMatham/)
+&emsp;
+![GitHub followers](https://img.shields.io/github/followers/Kirankumar-Matham96?style=for-the-badge)
+&emsp;<!-- stackoverflow -->
+![stackoverflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=23980767&period=year&mini=true)
+
+## 👋 Hello
 
 <!-- - Bio -->
-I'm Kirankumar Matham! A software developer over 3 years from Hyderabad. I love JavaScript and new technologies.
+I'm Kirankumar Matham, A software Engineer over 3 years from Hyderabad. I love JavaScript and new technologies. Have experience in building dynamic and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I specialize in crafting scalable solutions and delivering seamless user experiences.
 
-<!-- 
-🚀 Software Engineer with 2.5 years of experience in building dynamic and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I specialize in crafting scalable solutions and delivering seamless user experiences.
-
-💡 What I bring to the table:
-
+## What I bring to the table 💡:
 Proficient in frontend and backend development, API integration, and database management.
 Strong focus on building innovative projects that solve real-world problems.
 Passionate about clean, maintainable code and continuous learning.
-✨ Highlights:
 
+## Highlights ✨:
 Developed multiple full-stack applications, including SocialSync and GitProjector.
 Skilled in modern tools and technologies like Redux Toolkit, Swagger, and Multer for file uploads.
 Successfully implemented features such as authentication, session management, and RESTful APIs.
-📚 Currently working on:
+
+## Currently working on 📚:
 Building a Project Management App to showcase my ability to create intuitive user interfaces and robust backend systems.
 
-🌟 Goals:
+## Goals 🌟:
 I’m actively looking for opportunities to collaborate, grow, and contribute to impactful projects at product-based companies.
 
-📫 Let’s connect!
-Check out my portfolio: [Add Portfolio Link]
-Drop me a message on LinkedIn: [Add LinkedIn Link]
--->
-
-<!-- Copy-paste in your Readme.md file -->
 
 <!--
-####### Check this later
+### Check this later
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80587039" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80587039&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -137,38 +132,40 @@ Drop me a message on LinkedIn: [Add LinkedIn Link]
   ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Worked As
-- Free Lancer
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-
-
-
-
+## My Stats
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&layout=compact)
-
-
+&emsp;
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirankumar-Matham96&show_icons=true&theme=transparent)
 
-<!--
-stackoverflow:
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kirankumar-Matham96&show_icons=true&theme=transparent" />
 -->
-![stackoverflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=23980767&period=year&mini=true)
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kirankumar-Matham96&show_icons=true" />
+&emsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar-Matham96&layout=compact" />
+</div>
 
 <!-- - Social -->
-### socials
+## Let’s connect! 📫
 
-- [LinkedIn](www.linkedin.com/in/kirankumar-matham)
-- ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-- 
+Check out my [portfolio](https://myportfolio-omega-jet.vercel.app/).&ensp;Drop me a message on [LinkedIn](www.linkedin.com/in/kirankumar-matham)
 
-![GitHub followers](https://img.shields.io/github/followers/kirankumar-Matham96)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
-### support
-Thank you for supporting me
 
+<!--
+####  Thank you for visiting my profile!
+-->
+"Thank you for visiting my repository! Your support, views, and follows inspire me to keep building and sharing innovative projects. I truly appreciate your encouragement on my development journey!" 😊
+
+<!--
 [![Stargazers repo roster for @Kirankumar-Matham96/Kirankumar-Matham96](https://reporoster.com/stars/Kirankumar-Matham96/Kirankumar-Matham96)](https://github.com/Kirankumar-Matham96/Kirankumar-Matham96/stargazers)
 [![Forkers repo roster for @Kirankumar-Matham96/Kirankumar-Matham96](https://reporoster.com/forks/Kirankumar-Matham96/Kirankumar-Matham96)](https://github.com/Kirankumar-Matham96/Kirankumar-Matham96/network/members)
+-->
 
 <!--
 **kirankumar-Matham96/kirankumar-Matham96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
