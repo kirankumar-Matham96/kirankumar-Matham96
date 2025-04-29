@@ -24,7 +24,8 @@ Skilled in modern tools and technologies like Redux Toolkit, Swagger, and Multer
 Successfully implemented features such as authentication, session management, and RESTful APIs.
 
 ## Currently working on 📚
-Building a Project Management App to showcase my ability to create intuitive user interfaces and robust backend systems.
+<!-- Building a Project Management App to showcase my ability to create intuitive user interfaces and robust backend systems.-->
+Building an E-Commerce app with the MERN stack. Making the backend with Micro-Services Architecture and the frontend with NextJS.
 
 ## Goals 🌟
 I’m actively looking for opportunities to collaborate, grow, and contribute to impactful projects at product-based companies.
