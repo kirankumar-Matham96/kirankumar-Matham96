@@ -25,7 +25,7 @@ Successfully implemented features such as authentication, session management, an
 
 ## Currently working on 📚
 <!-- Building a Project Management App to showcase my ability to create intuitive user interfaces and robust backend systems.-->
-Building an E-Commerce app with the MERN stack. Making the backend with Micro-Services Architecture and the frontend with NextJS.
+Building an E-Commerce app, making the backend with ASP.NET Core Web Api and the frontend with Angular-21.
 
 ## Goals 🌟
 I’m actively looking for opportunities to collaborate, grow, and contribute to impactful projects at product-based companies.
